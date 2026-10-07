@@ -1,7 +1,7 @@
    # Lab 02: System Architecture
 
-   Author: Talha Iqbal
-   Student ID: 231223
+   Author: Zubair Khalil
+   Student ID: 231204
    Course: AI Project Design and Development, Air University Islamabad
 
    This repository contains the system design for an AI-powered object detection and surveillance pipeline, covering requirements, data-flow diagrams and a modular Python architecture.
