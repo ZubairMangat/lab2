@@ -2,8 +2,8 @@
 
 **Course:** AI Project Design and Development, Air University Islamabad
 **Lab:** 02, System Requirements and Software Architecture for AI Projects
-**Author:** Talha Iqbal
-**Student ID:** 231223
+**Author:** Zubair Khalil
+**Student ID:** 231204
 **Version:** 1.0
 
 This document covers two related systems. Section 2 specifies a Smart Automated Attendance System (Task 1). Sections 3 to 6 specify an AI surveillance and object detection platform, referred to as **VisionGuard** (Tasks 2 to 4). Both rely on the same camera to inference to logging pipeline, so the module design in Section 6 serves either one.
